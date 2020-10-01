@@ -8,7 +8,7 @@
 * [Sharing](sharing/README.md)
   * [My Github](sharing/my-github.md)
   * [Tracking](sharing/tracking.md)
-* [Android](android.md)
+* [Android](android/android.md)
 * [MacOS](macos/README.md)
   * [MacOS Apps](macos/macos-apps.md)
 * [Movies](movies.md)
